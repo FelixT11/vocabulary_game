@@ -1,0 +1,62 @@
+body{
+    
+    text-align: center;
+    background-color: #cfddef;
+}
+
+h1{
+    
+    padding-top: 50px;
+    font-family: 'Khand', sans-serif;
+    font-size: 40px;
+    color: #3e698e;
+}
+
+section{
+    
+    margin: 50px auto;
+    width: 500px;
+    height: 60%;
+    padding-bottom: 30px;
+    background-color: #bad1ef;
+    border: 2px dotted #5d737b;
+}
+
+h3{
+    
+    font-family: 'Khand', sans-serif;
+    font-size: 30px;
+    color: #3e698e;
+}
+
+h2{
+    
+    font-family: 'Khand', sans-serif;
+    font-size: 40px;
+    color: #3e698e;
+}
+
+input{
+    
+    padding: 10px;
+    border: 2px solid #3e698e;
+    border-radius: 5%;
+    margin-right: 10px;
+    background-color: #cfddef;
+}
+
+button{
+    
+    padding: 10px;
+    background-color: #3e698e;
+    border-radius: 5%;
+    margin-left: 10px;
+    border: 0px;
+    color: #ffffff;
+}
+
+#newWord{
+    
+    width: 200px;
+    display: none;
+}
